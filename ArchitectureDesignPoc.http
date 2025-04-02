@@ -1,0 +1,6 @@
+@ArchitectureDesignPoc_HostAddress = http://localhost:5121
+
+GET {{ArchitectureDesignPoc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
